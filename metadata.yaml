@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25181
     wikipedia: http://de.wikipedia.org/wiki/Rudolf_Herzog
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22209#Siegfried-der-Held
 gutenberg_bookshelf: DE Kinderbuch
 gutenberg_issued: '2007-08-01'
 gutenberg_type: Text
